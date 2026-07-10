@@ -19,7 +19,7 @@
 <p align="left">
 
 <a href="https://github.com/mmahsanuddin">
-<img src="https://img.shields.io/badge/GitHub-mmahsanuddin%2FLinux--Commands-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-mmahsanuddin%2F-181717?style=for-the-badge&logo=github"/>
 
 </a>
 
