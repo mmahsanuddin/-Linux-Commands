@@ -134,6 +134,5 @@ This repository contains essential Linux commands with descriptions and examples
 # ⭐ Author
 
 **M M Ahsan Uddin**
-
 Cybersecurity Enthusias
 
